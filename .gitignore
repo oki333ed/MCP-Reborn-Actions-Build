@@ -7,7 +7,7 @@ src/*
 #Run files
 runclient
 
-# Ignore Gradle GUI config
+# Ignore Gradle GUI configg
 gradle-app.setting
 
 # Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
